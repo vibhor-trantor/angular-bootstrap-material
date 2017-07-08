@@ -1,6 +1,6 @@
 {
   "name": "angular-bootstrap-material-webpack",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "AngularJS directives for creating material design style Bootstrap components - Repackaged for webpack consumption",
   "main": "index.js",
   "scripts": {
