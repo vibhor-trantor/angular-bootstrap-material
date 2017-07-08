@@ -1,7 +1,7 @@
 {
-  "name": "angular-bootstrap-material",
-  "version": "0.1.4",
-  "description": "AngularJS directives for creating material design style Bootstrap components",
+  "name": "angular-bootstrap-material-webpack",
+  "version": "0.0.1",
+  "description": "AngularJS directives for creating material design style Bootstrap components - Repackaged for webpack consumption",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
